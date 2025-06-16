@@ -24,9 +24,10 @@ But my **true drive** lies in the intersection of **AI and medicine** — unders
 
 ---
 
-### 🎮 Bonus Fun: Pet Feeding Game
+### 🎮 Bonus Fun: Pet Feeding Game:
 Even though my passion lies in research and  serious, rigorous projects, sometimes I do like to experiment and do something more creative, like the following little, easy game:
 Try my [Pet Feeding Game](https://github.com/Marcsi888/Pet_feeding_game) — a quick, 1–2 hour project I made to play around with game design and JSON logic. It’s simple, quirky, with a pinch of fun and nice design. 🐾
+
 ---
 
 ### 💖 The Reason that Keeps Me Going:
