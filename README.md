@@ -1,10 +1,10 @@
 # 👩‍💻 Hi There, I'm Mária Nyolcas 💫
 
-Welcome to my little corner of the internet! I'm a **Python-loving  data scientist and junior tech consultant pursuing my dreams and goals in CS** with a passion for using **AI**, **machine learning**, and **web automation** to make a difference in the fields that matter most — especially **neuroscience**, **medicine**, and **real estate**.
+Welcome to my little corner of the internet! I'm a **Python-loving  data scientist and junior tech consultant pursuing my dreams and goals in CS** with a passion for using **AI**, **machine learning**, and **web automation** to make a difference in the fields that matter, especially **neuroscience**, **medicine**, and **real estate**.
 
 Currently, I'm working as a **Junior Tech Consultant**, helping design and develop a project management system with a brilliant team in the **real estate consulting space**. I also apply **web scraping and data analysis** to drive insights and efficiencies for property-related processes.
 
-But my **true drive** lies in the intersection of **AI and medicine** — understanding the brain, decoding disease mechanisms, and contributing to healthcare innovation.
+But my **true drive** lies in the intersection of **AI and medicine**, understanding the brain, decoding disease mechanisms, and contributing to healthcare innovation.
 
 ---
 
