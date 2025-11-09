@@ -1,6 +1,6 @@
 # 👩‍💻 Hi There, I'm Mária Nyolcas (aka Marcsi888) 💫
 
-Welcome to my little corner of the internet! I'm a **Python-loving  data scientist and junior tech consultant pursuing my dreams and goals in CS** with a passion for using **AI**, **machine learning**, and **web automation** to make a difference in the fields that matter most — especially **neuroscience 🧠**, **medicine 🏥**, and **real estate 🏠**.
+Welcome to my little corner of the internet! I'm a **Python-loving  data scientist and junior tech consultant pursuing my dreams and goals in CS** with a passion for using **AI**, **machine learning**, and **web automation** to make a difference in the fields that matter most — especially **neuroscience**, **medicine**, and **real estate**.
 
 Currently, I'm working as a **Junior Tech Consultant**, helping design and develop a project management system with a brilliant team in the **real estate consulting space**. I also apply **web scraping and data analysis** to drive insights and efficiencies for property-related processes.
 
@@ -9,14 +9,14 @@ But my **true drive** lies in the intersection of **AI and medicine** — unders
 ---
 
 ### 🧠 My Expertise:
-- 🧬 **Neuroscience + NLP**: Check out my [NeuroQuery Project](link) – a full-stack AI app that classifies scientific papers, extracts study notes, and generates flashcards to support neuroscience education.
-- 🧹 **Web Scraping + Automation**: Building custom tools to collect and clean large-scale data from the web.
-- 📊 **Data Science & Analysis**: Making sense of complex datasets with Python, pandas, seaborn, and scikit-learn.
-- 🌐 **Web Development**: Front- and back-end experience with Python, JavaScript, TypeScript, and React frameworks.
+- **Neuroscience + NLP**: Check out my [NeuroQuery Project](link) – a full-stack AI app that classifies scientific papers, extracts study notes, and generates flashcards to support neuroscience education.
+- **Web Scraping + Automation**: Building custom tools to collect and clean large-scale data from the web.
+- **Data Science & Analysis**: Making sense of complex datasets with Python, pandas, seaborn, and scikit-learn.
+- **Web Development**: Front- and back-end experience with Python, JavaScript, TypeScript, and React frameworks.
 
 ---
 
-### 🌱 Current Projects:
+###  Current Projects:
 - 🔍 AI-driven migraine diagnosis model using patient and medical data.
 - 📚 NLP-powered systems for analyzing and summarizing scientific literature.
 - 👩‍⚕️ Deep learning models for medical imaging (e.g., X-ray classification).
