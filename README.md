@@ -1,4 +1,4 @@
-# 👩‍💻 Hi There, I'm Mária Nyolcas (aka Marcsi888) 💫
+# 👩‍💻 Hi There, I'm Mária Nyolcas 💫
 
 Welcome to my little corner of the internet! I'm a **Python-loving  data scientist and junior tech consultant pursuing my dreams and goals in CS** with a passion for using **AI**, **machine learning**, and **web automation** to make a difference in the fields that matter most — especially **neuroscience**, **medicine**, and **real estate**.
 
@@ -8,7 +8,7 @@ But my **true drive** lies in the intersection of **AI and medicine** — unders
 
 ---
 
-### 🧠 My Expertise:
+### My Expertise:
 - **Neuroscience + NLP**: Check out my [NeuroQuery Project](link) – a full-stack AI app that classifies scientific papers, extracts study notes, and generates flashcards to support neuroscience education.
 - **Web Scraping + Automation**: Building custom tools to collect and clean large-scale data from the web.
 - **Data Science & Analysis**: Making sense of complex datasets with Python, pandas, seaborn, and scikit-learn.
@@ -17,16 +17,16 @@ But my **true drive** lies in the intersection of **AI and medicine** — unders
 ---
 
 ###  Current Projects:
-- 🔍 AI-driven migraine diagnosis model using patient and medical data.
-- 📚 NLP-powered systems for analyzing and summarizing scientific literature.
-- 👩‍⚕️ Deep learning models for medical imaging (e.g., X-ray classification).
-- 🏘️ Project management tools for real estate tech consulting.
+- AI-driven migraine diagnosis model using patient and medical data.
+- NLP-powered systems for analyzing and summarizing scientific literature.
+- Deep learning models for medical imaging (e.g., X-ray classification).
+- Project management tools for real estate tech consulting.
 
 ---
 
 ### 🎮 Bonus Fun: Pet Feeding Game:
 Even though my passion lies in research and  serious, rigorous projects, sometimes I do like to experiment and do something more creative, like the following little, easy game:
-Try my [Pet Feeding Game](https://github.com/Marcsi888/Pet_feeding_game) — a quick, 1–2 hour project I made to play around with game design and JSON logic. It’s simple, quirky, with a pinch of fun and nice design. 🐾
+Try my [Pet Feeding Game](https://github.com/Marcsi888/Pet_feeding_game): a quick, 1–2 hour project I made to play around with game design and JSON logic. It’s simple, quirky, with a pinch of fun and nice design.
 
 ---
 
@@ -35,8 +35,8 @@ I’m deeply curious about the **human brain** and passionate about using techno
 
 ---
 
-### 🤝 Open to Collaborations
-If you're working on something exciting in the **medical AI**, **neuroscience**, or **health tech** space — and looking for a motivated contributor — **I’d love to hear from you!**  
+### Open to Collaborations
+If you're working on something exciting in the **medical AI**, **neuroscience**, or **health tech** space — and looking for a motivated contributor —> **I’d love to hear from you!**  
 Let’s build something meaningful together.
 
 ---
